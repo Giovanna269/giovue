@@ -1,3 +1,3 @@
 module.exports = {
-  publicPath: '/web-giovanna',
+  publicPath: '/giovanna',
 }
