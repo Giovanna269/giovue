@@ -1,3 +1,3 @@
 module.exports = {
-  publicPath: '/giovue',
+  publicPath: '/prueba1',
 }
